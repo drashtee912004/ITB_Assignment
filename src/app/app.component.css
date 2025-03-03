@@ -1,0 +1,17 @@
+.primary{
+
+    h1{
+        color:black;
+        background-color:bisque;
+        text-align: center;
+    }
+}
+
+.header{
+    h1{
+        color:blueviolet;
+        background-color:bisque;
+        text-align: center;
+    }
+
+}
